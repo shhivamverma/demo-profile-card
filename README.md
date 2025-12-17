@@ -39,6 +39,6 @@ This project focuses on clean layout design, proper styling, and foundational fr
 ## 📂 Project Structure
 ## 📸 Project Preview
 
-![Profile Card Preview](preview.png)
+![Profile Card Preview](preview.png.png)
 
 
