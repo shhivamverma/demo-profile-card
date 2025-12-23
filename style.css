@@ -1,0 +1,68 @@
+.profile {
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+.box {
+    text-align: center;
+    width: 280px;                
+    background-color: white;    
+    border-radius: 16px;        
+    box-shadow: 0 8px 20px rgba(0,0,0,0.12); 
+    padding: 20px;
+}
+
+
+.name {
+    margin-top: 17px;
+    font-size: 24px;
+    font-weight: bolder;
+}
+
+.specific {
+    margin-left: 19px;
+    margin-bottom: 3px;
+}
+
+.skill {
+    margin-top: 25px;
+    font-size: 20px;
+    margin-left: 10px;
+    justify-content: center;
+    font-weight: lighter;
+    color:gray
+}
+
+.box-image {
+    height: 140px;
+    width: 140px;         
+    background-image: url('https://images.pexels.com/photos/614810/pexels-photo-614810.jpeg?auto=compress&cs=tinysrgb&w=160');
+    background-size: cover;
+    background-position: center;
+    border-radius: 50%;    
+    margin: 0 auto;       
+}
+
+.contact textarea {
+    display: block;       
+    width: 90%;
+    margin: 10px auto;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+}
+
+
+.contact textarea {
+    height: 60px;
+    resize: none;
+}
+
+
+.visit  :hover {
+    cursor: pointer;
+    color:blue
+}
+
+
